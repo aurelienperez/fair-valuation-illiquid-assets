@@ -2,7 +2,7 @@
 
 This repository contains my **actuarial thesis** on the fair valuation of employee stock options in unlisted companies, in compliance with the **IFRS 2** standard. The thesis explores the impact of illiquidity on valuation and introduces an alternative approach based on **utility indifference pricing**.
 
-📄 **Thesis (📌 in French) :** [Download PDF](./Actuarial_Thesis.pdf)  
+📄 **Thesis (📌 in French) :** [Download PDF](Actuarial_Thesis.pdf)  
 📝 **Keywords:** Employee stock ownership, unlisted companies, illiquidity, IFRS 2, utility indifference pricing, Lambert-Monte-Carlo.  
 
 ## 📌 Abstract
